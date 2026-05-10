@@ -4,7 +4,7 @@ Deep learning-based gesture recognition for VR rhythm game interface
 # VR Gesture Recognition — VideoPrism + Soft-DTW
 
 > 딥러닝 기반 제스처 인식 기술을 활용한 VR 리듬게임 인터페이스 개발  
-> 중앙대학교 AI·SW융합 학부연구생 프로그램 - 손봉수 교수 가상현실연구실
+> 중앙대학교 AI·SW융합 학부연구생 프로그램 - 손봉수 교수님 (VR lab)
 
 ---
 
